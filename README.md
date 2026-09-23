@@ -1,11 +1,11 @@
 # Kristoffer Eide
 
 Applied Physics and Mathematics student at NTNU, specialising in industrial
-mathematics. Work part-time as a developer at DNB Asset Management,
+mathematics. Working part-time as a developer at DNB Asset Management,
 building data reconciliation and structuring tools in Python and SQL.
 
 ## Selected projects
-
+- [ekg-data-driven-pdes](https://github.com/samuelvasshus/ekg-data-driven-pdes) — identifying differential equations from ECG signals by least squares in Fourier space; ongoing, under supervision at NTNU
 - [loan-default-prediction](https://github.com/KristofferEide06/loan-default-prediction) — five statistical and machine-learning approaches to loan default, in R
 - [pinn-room-heating](https://github.com/KristofferEide06/pinn-room-heating) — physics-informed neural network in JAX, written from first principles
 - [usadel-bvp-solvers](https://github.com/KristofferEide06/usadel-bvp-solvers) — Usadel equations and shooting-method solvers for boundary value problems
