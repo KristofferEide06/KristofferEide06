@@ -1,7 +1,7 @@
 # Kristoffer Eide
 
 Applied Physics and Mathematics student at NTNU, specialising in industrial
-mathematics. I also work part-time as a developer at DNB Asset Management,
+mathematics. Work part-time as a developer at DNB Asset Management,
 building data reconciliation and structuring tools in Python and SQL.
 
 ## Selected projects
